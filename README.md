@@ -1,5 +1,8 @@
 # iLQR (Linear Quadratic Regulator) for a Quadrotor
  
+### [Project Page](https://rohang9929.github.io/ilqr/) | 
+
+
 I split this project into 3 parts.
 
 1. LQR to follow a circular trajectory
